@@ -14,7 +14,7 @@ body {
     min-width: 380px;
 }
 .header-bc {
-    background-image: url(./../img/IMAGE.svg);
+    background-image: url(./../img/IMAGE.jpg);
     background-size: cover;
     min-width: 380px;
 }
@@ -409,7 +409,7 @@ body {
 }
 /****************************************************/
 .about-us-section {
-    background-image: url(./../img/about-us-img.png);
+    background-image: url(./../img/about-us-img.jpg);
     background-size: cover;
     min-width: 380px;
 }
